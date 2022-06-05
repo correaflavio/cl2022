@@ -30,11 +30,11 @@ https://testing-developer.cisco.com/learning/labs/devwks-2150/
 
 #### 4) Enter at the directory of your lab
 
-**developer:src>** cd cl2022/devwks-1391 
+**developer:src>** cd cl2022/devwks_1391 
 
 or
 
-**developer:src>** cd cl2022/devwks-2150 
+**developer:src>** cd cl2022/devwks_2150 
 
 <br>
 
