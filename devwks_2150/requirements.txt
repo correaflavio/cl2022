@@ -4,3 +4,4 @@ matplotlib
 graphviz
 datetime
 sklearn
+seaborn
