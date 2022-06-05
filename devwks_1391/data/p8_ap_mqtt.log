@@ -1,0 +1,65 @@
+{'mrMac': '98:18:88:13:10:9D', 'clientType': 'visible', 'clientMac': '3E:28:CF:72:95:3A', 'timestamp': '2022-05-17 01:40:43.876', 'rssi': '-68', 'radio': 'wifi'}
+{'mrMac': '98:18:88:13:10:9D', 'clientType': 'visible', 'clientMac': '3E:28:CF:72:95:3A', 'timestamp': '2022-05-17 01:40:53.926', 'rssi': '-75', 'radio': 'wifi'}
+{'mrMac': 'E0:CB:BC:34:7E:0D', 'clientType': 'visible', 'clientMac': '3E:28:CF:72:95:3A', 'timestamp': '2022-05-17 01:40:52.753', 'rssi': '-89', 'radio': 'wifi'}
+{'mrMac': '98:18:88:13:10:9D', 'clientType': 'visible', 'clientMac': '3E:28:CF:72:95:3A', 'timestamp': '2022-05-17 01:40:53.846', 'rssi': '-81', 'radio': 'wifi'}
+{'mrMac': '98:18:88:13:10:9D', 'clientType': 'visible', 'clientMac': '3E:28:CF:72:95:3A', 'timestamp': '2022-05-17 01:40:53.16', 'rssi': '-79', 'radio': 'wifi'}
+{'mrMac': '98:18:88:13:10:9D', 'clientType': 'visible', 'clientMac': '3E:28:CF:72:95:3A', 'timestamp': '2022-05-17 01:40:52.866', 'rssi': '-77', 'radio': 'wifi'}
+{'mrMac': '98:18:88:13:10:9D', 'clientType': 'visible', 'clientMac': '3E:28:CF:72:95:3A', 'timestamp': '2022-05-17 01:40:52.796', 'rssi': '-79', 'radio': 'wifi'}
+{'mrMac': 'F8:9E:28:73:AF:32', 'clientType': 'visible', 'clientMac': '3E:28:CF:72:95:3A', 'timestamp': '2022-05-17 01:40:52.880', 'rssi': '-81', 'radio': 'wifi'}
+{'mrMac': 'F8:9E:28:73:AF:32', 'clientType': 'visible', 'clientMac': '3E:28:CF:72:95:3A', 'timestamp': '2022-05-17 01:40:52.780', 'rssi': '-83', 'radio': 'wifi'}
+{'mrMac': '98:18:88:13:10:9D', 'clientType': 'visible', 'clientMac': '3E:28:CF:72:95:3A', 'timestamp': '2022-05-17 01:40:58.810', 'rssi': '-76', 'radio': 'wifi'}
+{'mrMac': '98:18:88:13:10:9D', 'clientType': 'visible', 'clientMac': '3E:28:CF:72:95:3A', 'timestamp': '2022-05-17 01:41:03.156', 'rssi': '-75', 'radio': 'wifi'}
+{'mrMac': '98:18:88:13:10:9D', 'clientType': 'visible', 'clientMac': '3E:28:CF:72:95:3A', 'timestamp': '2022-05-17 01:41:02.326', 'rssi': '-76', 'radio': 'wifi'}
+{'mrMac': 'E0:CB:BC:34:7E:0D', 'clientType': 'visible', 'clientMac': '3E:28:CF:72:95:3A', 'timestamp': '2022-05-17 01:40:52.753', 'status': 'offline', 'rssi': '-89', 'radio': 'wifi'}
+{'mrMac': 'F8:9E:28:73:AF:32', 'clientType': 'visible', 'clientMac': '3E:28:CF:72:95:3A', 'timestamp': '2022-05-17 01:40:52.780', 'status': 'offline', 'rssi': '-83', 'radio': 'wifi'}
+{'mrMac': '98:18:88:13:10:9D', 'clientType': 'visible', 'clientMac': '3E:28:CF:72:95:3A', 'timestamp': '2022-05-17 01:41:33.671', 'rssi': '-80', 'radio': 'wifi'}
+{'mrMac': 'F8:9E:28:73:AF:32', 'clientType': 'visible', 'clientMac': '3E:28:CF:72:95:3A', 'timestamp': '2022-05-17 01:41:34.326', 'rssi': '-83', 'radio': 'wifi'}
+{'mrMac': '98:18:88:13:10:9D', 'clientType': 'visible', 'clientMac': '3E:28:CF:72:95:3A', 'timestamp': '2022-05-17 01:41:35.488', 'rssi': '-75', 'radio': 'wifi'}
+{'mrMac': '98:18:88:13:10:9D', 'clientType': 'visible', 'clientMac': '3E:28:CF:72:95:3A', 'timestamp': '2022-05-17 01:41:34.318', 'rssi': '-77', 'radio': 'wifi'}
+{'mrMac': '98:18:88:13:10:9D', 'clientType': 'visible', 'clientMac': '3E:28:CF:72:95:3A', 'timestamp': '2022-05-17 01:41:41.846', 'rssi': '-78', 'radio': 'wifi'}
+{'mrMac': '98:18:88:13:10:9D', 'clientType': 'visible', 'clientMac': '3E:28:CF:72:95:3A', 'timestamp': '2022-05-17 01:41:41.696', 'rssi': '-84', 'radio': 'wifi'}
+{'mrMac': '98:18:88:13:10:9D', 'clientType': 'visible', 'clientMac': '3E:28:CF:72:95:3A', 'timestamp': '2022-05-17 01:41:47.480', 'rssi': '-79', 'radio': 'wifi'}
+{'mrMac': '98:18:88:13:10:9D', 'clientType': 'visible', 'clientMac': '3E:28:CF:72:95:3A', 'timestamp': '2022-05-17 01:41:46.530', 'rssi': '-81', 'radio': 'wifi'}
+{'mrMac': '98:18:88:13:10:9D', 'clientType': 'visible', 'clientMac': '3E:28:CF:72:95:3A', 'timestamp': '2022-05-17 01:41:52.831', 'rssi': '-75', 'radio': 'wifi'}
+{'mrMac': '98:18:88:13:10:9D', 'clientType': 'visible', 'clientMac': '3E:28:CF:72:95:3A', 'timestamp': '2022-05-17 01:42:03.155', 'rssi': '-76', 'radio': 'wifi'}
+{'mrMac': 'F8:9E:28:73:AF:32', 'clientType': 'visible', 'clientMac': '3E:28:CF:72:95:3A', 'timestamp': '2022-05-17 01:41:34.326', 'status': 'offline', 'rssi': '-83', 'radio': 'wifi'}
+{'mrMac': '98:18:88:13:10:9D', 'clientType': 'visible', 'clientMac': '3E:28:CF:72:95:3A', 'timestamp': '2022-05-17 01:42:05.678', 'rssi': '-74', 'radio': 'wifi'}
+{'mrMac': 'F8:9E:28:73:AF:32', 'clientType': 'visible', 'clientMac': '3E:28:CF:72:95:3A', 'timestamp': '2022-05-17 01:42:11.331', 'rssi': '-84', 'radio': 'wifi'}
+{'mrMac': '98:18:88:13:10:9D', 'clientType': 'visible', 'clientMac': '3E:28:CF:72:95:3A', 'timestamp': '2022-05-17 01:42:13.889', 'rssi': '-75', 'radio': 'wifi'}
+{'mrMac': '98:18:88:13:10:9D', 'clientType': 'visible', 'clientMac': '3E:28:CF:72:95:3A', 'timestamp': '2022-05-17 01:42:12.949', 'rssi': '-78', 'radio': 'wifi'}
+{'mrMac': '98:18:88:13:10:9D', 'clientType': 'visible', 'clientMac': '3E:28:CF:72:95:3A', 'timestamp': '2022-05-17 01:42:24.43', 'rssi': '-75', 'radio': 'wifi'}
+{'mrMac': 'F8:9E:28:73:AF:32', 'clientType': 'visible', 'clientMac': '3E:28:CF:72:95:3A', 'timestamp': '2022-05-17 01:42:11.331', 'status': 'offline', 'rssi': '-84', 'radio': 'wifi'}
+{'mrMac': '98:18:88:13:10:9D', 'clientType': 'visible', 'clientMac': '3E:28:CF:72:95:3A', 'timestamp': '2022-05-17 01:42:24.43', 'status': 'offline', 'rssi': '-75', 'radio': 'wifi'}
+{'mrMac': '98:18:88:13:10:9D', 'clientType': 'visible', 'clientMac': '2E:BE:5A:CE:E1:F2', 'timestamp': '2022-05-17 01:43:18.821', 'rssi': '-69', 'radio': 'wifi'}
+{'mrMac': 'E0:CB:BC:34:7E:0D', 'clientType': 'visible', 'clientMac': '2E:BE:5A:CE:E1:F2', 'timestamp': '2022-05-17 01:43:18.822', 'rssi': '-87', 'radio': 'wifi'}
+{'mrMac': 'F8:9E:28:73:AF:32', 'clientType': 'visible', 'clientMac': '2E:BE:5A:CE:E1:F2', 'timestamp': '2022-05-17 01:43:18.825', 'rssi': '-72', 'radio': 'wifi'}
+{'mrMac': 'E0:CB:BC:34:7E:0D', 'clientType': 'visible', 'clientMac': '2E:BE:5A:CE:E1:F2', 'timestamp': '2022-05-17 01:43:34.962', 'rssi': '-86', 'radio': 'wifi'}
+{'mrMac': '98:18:88:13:10:9D', 'clientType': 'visible', 'clientMac': '2E:BE:5A:CE:E1:F2', 'timestamp': '2022-05-17 01:43:18.821', 'status': 'offline', 'rssi': '-69', 'radio': 'wifi'}
+{'mrMac': 'F8:9E:28:73:AF:32', 'clientType': 'visible', 'clientMac': '2E:BE:5A:CE:E1:F2', 'timestamp': '2022-05-17 01:43:18.825', 'status': 'offline', 'rssi': '-72', 'radio': 'wifi'}
+{'mrMac': 'E0:CB:BC:34:7E:0D', 'clientType': 'visible', 'clientMac': '2E:BE:5A:CE:E1:F2', 'timestamp': '2022-05-17 01:43:34.962', 'status': 'offline', 'rssi': '-86', 'radio': 'wifi'}
+{'mrMac': '98:18:88:13:10:9D', 'clientType': 'visible', 'clientMac': '3E:28:CF:72:95:3A', 'timestamp': '2022-05-17 01:44:52.416', 'rssi': '-81', 'radio': 'wifi'}
+{'mrMac': '98:18:88:13:10:9D', 'clientType': 'visible', 'clientMac': '3E:28:CF:72:95:3A', 'timestamp': '2022-05-17 01:45:16.226', 'rssi': '-82', 'radio': 'wifi'}
+{'mrMac': 'E0:CB:BC:34:7E:0D', 'clientType': 'visible', 'clientMac': '2E:BE:5A:CE:E1:F2', 'timestamp': '2022-05-17 01:45:41.476', 'rssi': '-86', 'radio': 'wifi'}
+{'mrMac': '98:18:88:13:10:9D', 'clientType': 'visible', 'clientMac': '2E:BE:5A:CE:E1:F2', 'timestamp': '2022-05-17 01:45:41.466', 'rssi': '-71', 'radio': 'wifi'}
+{'mrMac': '98:18:88:13:10:9D', 'clientType': 'visible', 'clientMac': '3E:28:CF:72:95:3A', 'timestamp': '2022-05-17 01:45:16.226', 'status': 'offline', 'rssi': '-82', 'radio': 'wifi'}
+{'mrMac': '98:18:88:13:10:9D', 'clientType': 'visible', 'clientMac': '3E:28:CF:72:95:3A', 'timestamp': '2022-05-17 01:46:08.839', 'rssi': '-82', 'radio': 'wifi'}
+{'mrMac': 'E0:CB:BC:34:7E:0D', 'clientType': 'visible', 'clientMac': '2E:BE:5A:CE:E1:F2', 'timestamp': '2022-05-17 01:45:41.476', 'status': 'offline', 'rssi': '-86', 'radio': 'wifi'}
+{'mrMac': 'F8:9E:28:73:AF:32', 'clientType': 'visible', 'clientMac': '3E:28:CF:72:95:3A', 'timestamp': '2022-05-17 01:46:08.841', 'rssi': '-89', 'radio': 'wifi'}
+{'mrMac': '98:18:88:13:10:9D', 'clientType': 'visible', 'clientMac': '3E:28:CF:72:95:3A', 'timestamp': '2022-05-17 01:46:11.466', 'rssi': '-83', 'radio': 'wifi'}
+{'mrMac': '98:18:88:13:10:9D', 'clientType': 'visible', 'clientMac': '3E:28:CF:72:95:3A', 'timestamp': '2022-05-17 01:46:10.526', 'rssi': '-69', 'radio': 'wifi'}
+{'mrMac': '98:18:88:13:10:9D', 'clientType': 'visible', 'clientMac': '2E:BE:5A:CE:E1:F2', 'timestamp': '2022-05-17 01:45:41.466', 'status': 'offline', 'rssi': '-71', 'radio': 'wifi'}
+{'mrMac': '98:18:88:13:10:9D', 'clientType': 'visible', 'clientMac': '3E:28:CF:72:95:3A', 'timestamp': '2022-05-17 01:46:28.60', 'rssi': '-70', 'radio': 'wifi'}
+{'mrMac': 'E0:CB:BC:34:7E:0D', 'clientType': 'visible', 'clientMac': '2E:BE:5A:CE:E1:F2', 'timestamp': '2022-05-17 01:46:35.332', 'rssi': '-85', 'radio': 'wifi'}
+{'mrMac': 'F8:9E:28:73:AF:32', 'clientType': 'visible', 'clientMac': '2E:BE:5A:CE:E1:F2', 'timestamp': '2022-05-17 01:46:35.336', 'rssi': '-74', 'radio': 'wifi'}
+{'mrMac': '98:18:88:13:10:9D', 'clientType': 'visible', 'clientMac': '2E:BE:5A:CE:E1:F2', 'timestamp': '2022-05-17 01:46:35.330', 'rssi': '-68', 'radio': 'wifi'}
+{'mrMac': 'F8:9E:28:73:AF:32', 'clientType': 'visible', 'clientMac': '3E:28:CF:72:95:3A', 'timestamp': '2022-05-17 01:46:08.841', 'status': 'offline', 'rssi': '-89', 'radio': 'wifi'}
+{'mrMac': 'F8:9E:28:73:AF:32', 'clientType': 'visible', 'clientMac': '3E:28:CF:72:95:3A', 'timestamp': '2022-05-17 01:46:48.91', 'rssi': '-88', 'radio': 'wifi'}
+{'mrMac': '98:18:88:13:10:9D', 'clientType': 'visible', 'clientMac': '3E:28:CF:72:95:3A', 'timestamp': '2022-05-17 01:46:48.851', 'rssi': '-77', 'radio': 'wifi'}
+{'mrMac': '98:18:88:13:10:9D', 'clientType': 'visible', 'clientMac': '3E:28:CF:72:95:3A', 'timestamp': '2022-05-17 01:46:48.91', 'rssi': '-81', 'radio': 'wifi'}
+{'mrMac': '98:18:88:13:10:9D', 'clientType': 'visible', 'clientMac': '3E:28:CF:72:95:3A', 'timestamp': '2022-05-17 01:46:46.731', 'rssi': '-82', 'radio': 'wifi'}
+{'mrMac': '98:18:88:13:10:9D', 'clientType': 'visible', 'clientMac': '3E:28:CF:72:95:3A', 'timestamp': '2022-05-17 01:46:46.651', 'rssi': '-84', 'radio': 'wifi'}
+{'mrMac': '98:18:88:13:10:9D', 'clientType': 'visible', 'clientMac': '3E:28:CF:72:95:3A', 'timestamp': '2022-05-17 01:46:55.257', 'rssi': '-76', 'radio': 'wifi'}
+{'mrMac': '98:18:88:13:10:9D', 'clientType': 'visible', 'clientMac': '2E:BE:5A:CE:E1:F2', 'timestamp': '2022-05-17 01:47:04.975', 'rssi': '-70', 'radio': 'wifi'}
+{'mrMac': '98:18:88:13:10:9D', 'clientType': 'visible', 'clientMac': '3E:28:CF:72:95:3A', 'timestamp': '2022-05-17 01:47:04.515', 'rssi': '-77', 'radio': 'wifi'}
+{'mrMac': 'E0:CB:BC:34:7E:0D', 'clientType': 'visible', 'clientMac': '2E:BE:5A:CE:E1:F2', 'timestamp': '2022-05-17 01:47:04.968', 'rssi': '-86', 'radio': 'wifi'}
+{'mrMac': 'F8:9E:28:73:AF:32', 'clientType': 'visible', 'clientMac': '2E:BE:5A:CE:E1:F2', 'timestamp': '2022-05-17 01:47:04.972', 'rssi': '-75', 'radio': 'wifi'}
