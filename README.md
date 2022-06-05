@@ -1,5 +1,7 @@
 # Cisco Live 2022 Workshops
 
+Welcome to my Cisco Live 2022 DevNet Workshops. Here you have quick instructions about how to get access to it, install the requirements and start working on it via jupyter notebooks. Enjoy!
+
 #### 1) Access the DevNet Lab environment based in the DevNet Workshop that you are:
 
 DEVWKS-1391 - Building your first ML model using your network WiFi data
