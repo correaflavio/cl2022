@@ -5,3 +5,4 @@ graphviz
 datetime
 sklearn
 seaborn
+xgboost
