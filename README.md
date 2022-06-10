@@ -62,11 +62,8 @@ or
 
 #### 9) Run Caddy webserver in another terminal window
 
-**developer:src>** Caddy run
+**developer:src>** caddy run
 
 <br>
 
-#### 10) On the top blue bar of the DevNet lab, click on the briefcase icon to get the Caddy web server URL. Click to open it in your default browser. It will be a URL like:
-
-"https://app-8080-long-ID.devenv-int.ap-ne-1.devnetcloud.com"
-
+#### 10) On the top blue bar of the DevNet lab, click on the briefcase icon to get the Caddy web server URL. Click to open it in your default browser. It will be a URL like "app-8080-long-ID.devenv-int.ap-ne-1.devnetcloud.com".
