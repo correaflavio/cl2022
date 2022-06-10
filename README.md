@@ -62,7 +62,7 @@ or
 
 #### 9) Run Caddy webserver in another terminal window
 
-**developer:src>** Caddy run
+**developer:src>** caddy run
 
 <br>
 
