@@ -5,12 +5,12 @@ Welcome to my Cisco Live 2022 DevNet Workshops. Here you have quick instructions
 #### 1) Access the DevNet Lab environment based in the DevNet Workshop that you are:
 
 DEVWKS-1391 - Building your first ML model using your network WiFi data
-https://testing-developer.cisco.com/learning/labs/devwks-1391/introduction/ 
+https://developer.cisco.com/learning/labs/devwks-1391/introduction/ 
 
 or
 
 DEVWKS-2150 - Predicting your office occupancy and environmental status using Machine Learning
-https://testing-developer.cisco.com/learning/labs/devwks-2150/
+https://developer.cisco.com/learning/labs/devwks-2150/
 
 <br>
 
